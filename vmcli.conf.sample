@@ -1,0 +1,4 @@
+[vmcli]
+url: https://<fqdn>
+user: Administrator@vsphere.local
+password: <password>
